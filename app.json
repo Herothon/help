@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
-  "description": "اهلا بك في تليثون العرب",
-  "logo": "https://telegra.ph/file/f1b9e7e1a5b0f719bc5d9.png",
+  "name": "هيرثون",
+  "description": "اهلا بك في هيرثون ",
+  "logo": "https://telegra.ph/file/5247b3ed40021926946b9.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/Herothon/help",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "herothon",
       "required": false
     }
   },
